@@ -127,9 +127,9 @@ function App() {
 <br></br>
       <button onClick={bye}>All matched</button>
       {dodos && (
-      <div className='grats'>
+      <h1>
          Congratulation you have won the game
-      </div>)
+      </h1>)
       
       }
 
